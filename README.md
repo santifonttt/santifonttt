@@ -1,4 +1,27 @@
-## Hello! 👋 I'm Santiago Font
+<p align="center">
+  <img src="Images/banner.png" alt="Banner">
+</p>
+
+# Hello! 👋 I'm Santiago Font
+
+### Data Science Student
+
+
+---
+
+## 💻 Skills & Technologies
+
+    - **Languages:** Python, R, SQL and MATLAB
+    - **Collaborative:** Git and Github
+
+
+
+---
+
+## 🌐 Let's Connect!
+
+    - **Email:** santiago.font.pinya@gmial.com
+    - **LinkedIn:** [Santiago Font](www.linkedin.com/in/santiago-font-piña-03b52b32a)
 
 <!--
 **santifonttt/santifonttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
