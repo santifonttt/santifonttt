@@ -6,22 +6,20 @@
 
 ### Data Science Student
 
-
 ---
 
 ## 💻 Skills & Technologies
 
-    - **Languages:** Python, R, SQL and MATLAB
-    - **Collaborative:** Git and Github
-
-
+- **Languages:** Python, R, SQL, MATLAB
+- **Version Control:** Git, GitHub
 
 ---
 
 ## 🌐 Let's Connect!
 
-    - **Email:** santiago.font.pinya@gmial.com
-    - **LinkedIn:** [Santiago Font](www.linkedin.com/in/santiago-font-piña-03b52b32a)
+- **Email:** santiago.font.pinya@gmail.com
+- **LinkedIn:** [Santiago Font](https://www.linkedin.com/in/santiago-font-piña-03b52b32a)
+
 
 <!--
 **santifonttt/santifonttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
